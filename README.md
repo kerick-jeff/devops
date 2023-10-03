@@ -8,7 +8,7 @@ You can [claim a $200 credit to start your free trial](https://try.digitalocean.
 
 1. Deploy and run the latest version of the Laravel and Angular frameworks on DigitalOcean.
 
-2. Using GitHub Actions, automate a CI/CD pipeline that deploys the applications in 1. whenever a pull request is merged on the `master` branch.
+2. Using GitHub Actions, automate a CI/CD pipeline that deploys the applications in 1. whenever a pull request is merged on the `main` branch.
 
 3. Set up monitors that trigger when CPU, RAM, and Disk Usage have reached a certain threshold.
 
